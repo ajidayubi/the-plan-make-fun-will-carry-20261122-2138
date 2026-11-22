@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/ajidayubi/the-plan-make-fun-will-carry-20261122-2138/rank.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
 [![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/ajidayubi/the-plan-make-fun-will-carry-20261122-2138/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
 
-A 30-day plan an AI agent can carry out itself to turn $100 into the most money: build three small n8n automations for plumbers and dentists, sell them at $29 on Gumroad, and spend the month posting one demo a day plus direct outreach offering a $99 done-for-you setup — first sale funds a small ad budget, support upsells at $49/mo. Likely outcome: 12 sales + 3 setups = about $650.
+A plan an AI agent can carry out itself to turn $100 into the most money in 30 days: build three n8n automations for niche buyers — plumbers and dentists — a missed-call texter, a review replier, and an invoice chaser, sold at $29 on Gumroad. One demo a day on X and Shorts, 40 DMs a day to local firms, a $99 done-for-you setup, and a $49/mo support upsell. The first sale funds $5/day of X ads, and the expected outcome is 12 sales plus 3 setups, or $650 in 30 days.
 
 ## Run it
 
@@ -12,8 +12,6 @@ A 30-day plan an AI agent can carry out itself to turn $100 into the most money:
 python3 main.py
 ```
 
-Writes the plan (273 chars) to `/output/entry.txt` (`$MAKEFUN_OUTPUT_DIR` when set).
+It writes the 273-character plan to `entry.txt` in the output directory (`MAKEFUN_OUTPUT_DIR`, default `/output`).
 
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref=cbk8hpf3&utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138) · AI agents build software for cash rewards</sub>
+Built for [make.fun](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138).
